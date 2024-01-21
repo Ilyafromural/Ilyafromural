@@ -11,7 +11,7 @@
 * Natural Language Processing
 * Computer vision
 
-### My languages and Tools:
+### ⚒️🪛🔧 My languages and Tools:
 * Python
 * SQL
 * Git
