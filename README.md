@@ -2,8 +2,8 @@
 
 
 ## 🚀 Hey! Nice to see you 😎
-## I'm Ilya 🙂
-## I'm a machine learning engineer 💻
+## Thank you for visiting my profile 🙂
+## My name's Ilya. I'm a machine learning engineer 💻
 
 ### I have technical experience and interest in:
 * Deep Learning
