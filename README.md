@@ -27,6 +27,7 @@
 * Scikitlearn
 * PySpark
 * Matplotlib
+* Streamlit
 
 ### My Hobbies and interests: 
 * Traveling ✈️
